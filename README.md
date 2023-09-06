@@ -2,10 +2,10 @@
 learing open cv and used mediapipe
 
 Pre reqvisit:
-  python 
-  numpy
-  open cv
-  mediapipe
-  pycaw
+  <br>python 
+  <br>numpy
+  <br>open cv
+  <br>mediapipe
+  <br>pycaw
 
 just execute VolumeControl.py and enjoy for sort time
