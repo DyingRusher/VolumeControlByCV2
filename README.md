@@ -1,9 +1,8 @@
-# objective 
-this project is able to control the volume level using distance between tip of thumb and index finger.
+# Objective 
+Control the volume level using distance between tip of thumb and index finger.  
 
-# VolumeControlByCV2
-learing open cv and mediapipe
+# Installation
+  `pip install numpy opencv-python mediapipe pycaw`
 
-
-
+# Usage
 just execute VolumeControl.py and enjoy.
